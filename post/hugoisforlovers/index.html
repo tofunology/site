@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+  <title>Hello,tofunology!</title>
+  <meta charset='utf-8'>
+  <meta name = 'viewport' content = 'width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no'>
+  <meta http-equiv = 'X-UA-Compatible' content = 'IE=edge'>
+  <meta name = 'SKYPE_TOOLBAR' content = 'SKYPE_TOOLBAR_PARSER_COMPATIBLE' />
+  <meta name = 'keywords' content = 'Hello,tofunology!'>
+  <meta property = 'og:locale' content = 'en_US' />
+  <meta property = 'og:type' content = 'article' />
+  <meta property = 'og:title' content = 'Getting Started with Hugo' />
+  <meta property = 'og:description' content = 'Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
+Save it somewhere specific as we will be …'>
+  <meta property = 'og:url' content = 'http://localhost:1313/post/hugoisforlovers/' />
+  <meta property = 'og:image' content = 'http://localhost:1313/images/stuck.jpg'/>
+
+  <link rel="apple-touch-icon" sizes="180x180" href = 'http://localhost:1313/images/icons/apple-touch-icon.png'>
+  <link rel="icon" type="image/png" sizes="32x32" href = 'http://localhost:1313/images/icons/favicon-32x32.png'>
+  <link rel="icon" type="image/png" sizes="16x16" href= 'http://localhost:1313/images/icons/favicon-16x16.png'>
+  <link rel='canonical' href="http://localhost:1313/post/hugoisforlovers/">
+  <link rel = 'stylesheet' href = 'http://localhost:1313/main.css' integrity = ''>
+</head>
+  <body>
+    <div class = 'nav-drop'>
+  <div class = 'nav-body'>
+  
+    <a href = 'http://localhost:1313/about/'>About</a>
+  
+    <a href = 'http://localhost:1313/'>Blog</a>
+  
+    <a href = 'http://localhost:1313/categories/development/'>Category A</a>
+  
+    <a href = 'http://localhost:1313/categories/golang/'>Category B</a>
+  
+    <a href = 'http://localhost:1313/tags/go/'>Tag B</a>
+  
+    <div class = 'nav-close'></div>
+  </div>
+</div>
+
+    <header class = 'nav' >
+  <nav class = 'nav-menu'>
+    <a href='http://localhost:1313/' class = 'nav-brand'><img src="http://localhost:1313//images/logo.png" width="580" height="100"></a>
+    <div class = 'nav-bar'>&#9776;</div>
+  </nav>
+</header>
+
+    <main>
+      
+<section class = 'post_header' style = 'background-image:url(http://localhost:1313/images/stuck.jpg);'>
+  <h1 class='post_title' itemprop='name headline'>Getting Started with Hugo</h1>
+  
+  
+  
+  
+  
+  </p>
+</section>
+<div class = 'post'>
+  <article class='post_content' itemprop='articleBody'>
+    
+
+<h2 id="step-1-install-hugo">Step 1. Install Hugo</h2>
+
+<p>Go to <a href="https://github.com/spf13/hugo/releases">Hugo releases</a> and download the
+appropriate version for your OS and architecture.</p>
+
+<p>Save it somewhere specific as we will be using it in the next step.</p>
+
+<p>More complete instructions are available at <a href="https://gohugo.io/getting-started/installing/">Install Hugo</a></p>
+
+<h2 id="step-2-build-the-docs">Step 2. Build the Docs</h2>
+
+<p>Hugo has its own example site which happens to also be the documentation site
+you are reading right now.</p>
+
+<p>Follow the following steps:</p>
+
+<ol>
+<li>Clone the <a href="http://github.com/spf13/hugo">Hugo repository</a></li>
+<li>Go into the repo</li>
+<li>Run hugo in server mode and build the docs</li>
+<li>Open your browser to <a href="http://localhost:1313">http://localhost:1313</a></li>
+</ol>
+
+<p>Corresponding pseudo commands:</p>
+
+<pre><code>git clone https://github.com/spf13/hugo
+cd hugo
+/path/to/where/you/installed/hugo server --source=./docs
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Press ctrl+c to stop
+</code></pre>
+
+<p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
+
+<h2 id="step-3-change-the-docs-site">Step 3. Change the docs site</h2>
+
+<p>Stop the Hugo process by hitting Ctrl+C.</p>
+
+<p>Now we are going to run hugo again, but this time with hugo in watch mode.</p>
+
+<pre><code>/path/to/hugo/from/step/1/hugo server --source=./docs --watch
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 27 ms
+&gt; Web Server is available at http://localhost:1313
+&gt; Watching for changes in /Users/spf13/Code/hugo/docs/content
+&gt; Press ctrl+c to stop
+</code></pre>
+
+<p>Open your <a href="http://vim.spf13.com">favorite editor</a> and change one of the source
+content pages. How about changing this very file to <em>fix the typo</em>. How about changing this very file to <em>fix the typo</em>.</p>
+
+<p>Content files are found in <code>docs/content/</code>. Unless otherwise specified, files
+are located at the same relative location as the url, in our case
+<code>docs/content/overview/quickstart.md</code>.</p>
+
+<p>Change and save this file.. Notice what happened in your terminal.</p>
+
+<pre><code>&gt; Change detected, rebuilding site
+
+&gt; 29 pages created
+&gt; 0 tags index created
+&gt; in 26 ms
+</code></pre>
+
+<p>Refresh the browser and observe that the typo is now fixed.</p>
+
+<p>Notice how quick that was. Try to refresh the site before it&rsquo;s finished building. I double dare you.
+Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.</p>
+
+<h2 id="step-4-have-fun">Step 4. Have fun</h2>
+
+<p>The best way to learn something is to play with it.</p>
+
+  </article>
+  
+  <aside>
+    <h3><span class = 'pretty'>Recent Posts</span></h3>
+    <ul class='flex post_aside'>
+      
+       <li class = 'duo post_item'>
+  <a class = 'show' href='http://localhost:1313/profile/members/' title = 'Members' style = 'background-image: url(http://localhost:1313/images/);'>
+  </a>
+  <div class = 'excerpt'>
+    
+    <h3 class = 'post_link'>
+      <a href='http://localhost:1313/profile/members/'>Members</a>
+    </h3>
+    <p class = 'pale'></p>
+  </div>
+</li>
+      
+       <li class = 'duo post_item'>
+  <a class = 'show' href='http://localhost:1313/post/creating-a-new-theme/' title = 'Members' style = 'background-image: url(http://localhost:1313/images/artist.jpg);'>
+  </a>
+  <div class = 'excerpt'>
+    
+    <h3 class = 'post_link'>
+      <a href='http://localhost:1313/post/creating-a-new-theme/'>Members</a>
+    </h3>
+    <p class = 'pale'>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume …</p>
+  </div>
+</li>
+      
+    </ul>
+  </aside>
+</div>
+<script src = 'http://localhost:1313/js/autosize.min.js'></script>
+<script src = 'http://localhost:1313/js/timeago.js'></script>
+
+    </main>
+    <footer class = 'footer'>
+  <div class = 'footer_inner'>
+    <p>&copy;<span class = 'year'></span> . Hello,tofunology!</p>
+    <p class = 'mute'>Designed by <a href = 'https://www.linkedin.com/in/dan-weru-profile/' target = '_blank' title = 'Linkedin Profile' rel = 'nonopener'> Weru</a></p>
+  </div>
+</footer>
+<script src = 'https://code.jquery.com/jquery-3.1.0.min.js'   integrity='sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s='   crossorigin='anonymous'></script>
+<script src = 'http://localhost:1313/js/index.js'></script>
+  </body>
+</html>
