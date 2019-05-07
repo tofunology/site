@@ -9,18 +9,7 @@
   </url>
   
   <url>
-    <loc>https://Tofunology.github.io/site/news/hpopen/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://Tofunology.github.io/site/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/news/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -28,6 +17,17 @@
   <url>
     <loc>https://Tofunology.github.io/site/about/about/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/news/hpopen/</loc>
+    <lastmod>2019-05-07T00:00:00+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/news/</loc>
+    <lastmod>2019-05-07T00:00:00+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
