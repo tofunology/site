@@ -3,111 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Tofunology.github.io/site/</loc>
-    <lastmod>2019-05-07T23:08:42+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/profile/members/</loc>
-    <lastmod>2019-05-07T23:08:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/profile/</loc>
-    <lastmod>2019-05-07T23:08:42+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/post/creating-a-new-theme/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/post/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://Tofunology.github.io/site/about/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://Tofunology.github.io/site/post/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://Tofunology.github.io/site/news/hpopen/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/news/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/about/about/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Tofunology.github.io/site/categories/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/categories/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/post/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://Tofunology.github.io/site/tags/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/categories/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/post/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
