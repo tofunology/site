@@ -225,6 +225,19 @@ b, strong, em {
   border-radius: 10px;
 }
 
+.intro_welcome {
+  max-width: 840px;
+  margin: 25px auto;
+  margin: 0 auto;
+  text-align: center;
+  padding: 25px;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0);
+  color: #24292e;
+  box-shadow: 0 0 130px rgba(0, 0, 0, 0.17);
+  border-radius: 10px;
+}
+
 .intro_headline {
   margin: 0 auto;
   color: #fff;
