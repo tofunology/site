@@ -242,6 +242,7 @@ b, strong, em {
   margin: 0 auto;
   color: #fff;
   font-weight: 300;
+  text-transform: lowercase;
 }
 
 .intro_desc {
