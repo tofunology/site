@@ -152,7 +152,6 @@ code {
 
 h1, h2, h3, h4, h5 {
   font-family: "Metropolis", sans-serif;
-  text-transform: capitalize;
   text-align: center;
   font-weight: 500;
   padding: 5px 0;
