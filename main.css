@@ -460,6 +460,7 @@ section p {
   }
   .mobile {
     display: none;
+    min-width: 200;
   }
 }
 
