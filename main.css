@@ -446,7 +446,7 @@ section p {
   }
 }
 
-@media screen and (min-width: 769px) {
+@media screen and (min-width: 400px) {
   .nav-menu a {
     display: inline-block;
     height: initial;
