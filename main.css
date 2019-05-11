@@ -803,7 +803,28 @@ section p {
   min-width: 460px;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 500px) and (orientation: portrait) {
+  .post_item {
+    min-width: 95%;
+    max-width: 95%;
+  }
+}
+
+@media screen and (max-width: 500px) and (orientation: landscape) {
+  .post_item {
+    min-width: 95%;
+    max-width: 95%;
+  }
+}
+
+@media screen and (max-width: 1024px) and (orientation: portrait) {
+  .post_item {
+    min-width: 95%;
+    max-width: 95%;
+  }
+}
+
+@media screen and (max-width: 1024px) and (orientation: landscape) {
   .post_item {
     min-width: 95%;
     max-width: 95%;
