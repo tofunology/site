@@ -804,7 +804,8 @@ section p {
 
 @media screen and (max-width: 550px) {
   .post_item {
-    min-width: 80%;
+    min-width: 0px;
+    width: 95%;
   }
 }
 
