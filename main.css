@@ -799,39 +799,30 @@ section p {
   margin: 20px 0;
   border-radius: 10px;
   overflow: hidden;
-  max-width: none;
-  min-width: 460px;
+  width: 460px;
 }
 
 @media screen and (max-width: 500px) and (orientation: portrait) {
   .post_item {
-    -webkit-appearance: none;
-    min-width: 95%;
-    max-width: 95%;
+    width: 95%;
   }
 }
 
 @media screen and (max-width: 500px) and (orientation: landscape) {
   .post_item {
-    -webkit-appearance: none;
-    min-width: 95%;
-    max-width: 95%;
+    width: 95%;
   }
 }
 
 @media screen and (max-width: 1024px) and (orientation: portrait) {
   .post_item {
-    -webkit-appearance: none;
-    min-width: 95%;
-    max-width: 95%;
+    width: 95%;
   }
 }
 
 @media screen and (max-width: 1024px) and (orientation: landscape) {
   .post_item {
-    -webkit-appearance: none;
-    min-width: 95%;
-    max-width: 95%;
+    width: 95%;
   }
 }
 
