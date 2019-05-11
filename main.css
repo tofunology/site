@@ -241,7 +241,6 @@ b, strong, em {
   margin: 0 auto;
   color: #fff;
   font-weight: 300;
-  text-transform: lowercase;
 }
 
 .intro_desc {
@@ -276,9 +275,13 @@ b, strong, em {
 .excerpt {
   padding: 20px 10px;
   position: relative;
-  margin-top: -30px;
   z-index: 1;
   background: #fff;
+}
+
+.excerpt a {
+  margin: -230px;
+  padding: 230px 230px;
 }
 
 .gravatar {
@@ -440,16 +443,15 @@ section p {
   width: 125px;
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 567px) {
   .third {
     width: 49%;
   }
 }
 
-@media screen and (min-width: 400px) {
+@media screen and (min-width: 769px) {
   .nav-menu a {
     display: inline-block;
-    height: initial;
     text-align: left;
   }
   .duo {
@@ -460,7 +462,6 @@ section p {
   }
   .mobile {
     display: none;
-    min-width: 200px;
   }
 }
 
@@ -695,6 +696,9 @@ section p {
   width: 100%;
   max-width: 750px;
   margin-top: 25px;
+  display: table;
+  width: 100%;
+  margin-bottom: 10px;
 }
 
 .post h1, .post h2, .post h3 {
@@ -795,6 +799,13 @@ section p {
   margin: 20px 0;
   border-radius: 10px;
   overflow: hidden;
+  min-width: 460px;
+}
+
+@media screen and (min-width: 550px) {
+  .post_item {
+    min-width: 80%;
+  }
 }
 
 .post_link {
@@ -803,6 +814,7 @@ section p {
   font-size: 1.25em;
   margin: 2.5px 0;
   text-align: left;
+  display: block;
 }
 
 .post_meta {
