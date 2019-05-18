@@ -25,8 +25,20 @@
   </url>
   
   <url>
+    <loc>https://Tofunology.github.io/site/tags/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://Tofunology.github.io/site/about/</loc>
     <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/tags/profile/</loc>
+    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -36,11 +48,6 @@
   
   <url>
     <loc>https://Tofunology.github.io/site/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/tags/</loc>
     <priority>0</priority>
   </url>
   
