@@ -799,7 +799,7 @@ section p {
   margin: 20px 0;
   border-radius: 10px;
   overflow: hidden;
-  width: 460px;
+  width: 45%;
 }
 
 @media screen and (max-width: 500px) and (orientation: portrait) {
@@ -832,11 +832,9 @@ section p {
   font-size: 1.25em;
   margin: 2.5px 0;
   text-align: left;
-  display: block;
 }
 
 .post_meta {
-  text-transform: uppercase;
   font-size: 0.84rem;
   font-weight: 500;
 }
@@ -851,7 +849,6 @@ section p {
   font-size: 0.84rem;
   font-weight: 300;
   color: #04a763;
-  text-transform: uppercase;
 }
 
 .post_title {
@@ -967,7 +964,7 @@ section p {
 }
 
 .waves {
-  max-width: 320px;
+  max-width: 400px;
   height: 5px;
   display: flex;
   align-items: center;
