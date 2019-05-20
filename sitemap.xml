@@ -3,17 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://Tofunology.github.io/site/cc/</loc>
-    <lastmod>2019-05-20T15:47:57+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://Tofunology.github.io/site/</loc>
-    <lastmod>2019-05-20T15:47:57+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://Tofunology.github.io/site/news/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -22,6 +11,12 @@
   <url>
     <loc>https://Tofunology.github.io/site/contact/</loc>
     <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://Tofunology.github.io/site/</loc>
+    <lastmod>2019-05-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
