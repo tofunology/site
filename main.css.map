@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/tanakatomoaki/Documents/site/localWorkSpace",
+	"sourceRoot": "/Users/tamaihayato/Documents/site/localWorkSpace",
 	"sources": [
 		"themes/hugo-swift-theme/assets/main.scss",
 		"themes/hugo-swift-theme/assets/_fonts.scss",
