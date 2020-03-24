@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on tofunology</title>
-    <link>https://tofunology.github.io/tags/</link>
+    <link>https://tofunology.github.io/site/tags/</link>
     <description>Recent content in Tags on tofunology</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JP</language>
     <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://tofunology.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tofunology.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Arduino</title>
-      <link>https://tofunology.github.io/tags/arduino/</link>
+      <link>https://tofunology.github.io/site/tags/arduino/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/tags/arduino/</guid>
+      <guid>https://tofunology.github.io/site/tags/arduino/</guid>
       <description></description>
     </item>
     
     <item>
       <title>プログラミング</title>
-      <link>https://tofunology.github.io/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
+      <link>https://tofunology.github.io/site/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</link>
       <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
+      <guid>https://tofunology.github.io/site/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</guid>
       <description></description>
     </item>
     
