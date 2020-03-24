@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tofunology</title>
+    <link>https://zhaohuabing.com/</link>
+    <description>Recent content on tofunology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JP</language>
+    <lastBuildDate>Tue, 24 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zhaohuabing.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Tofunology</title>
+      <link>https://zhaohuabing.com/2020/03/24/hello-world/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2020/03/24/hello-world/</guid>
+      <description>Hello World! 初めての投稿</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Tofunology</title>
+      <link>https://zhaohuabing.com/2020/03/24/hello-world/</link>
+      <pubDate>Tue, 24 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/2020/03/24/hello-world/</guid>
+      <description>Hello World! 初めての投稿</description>
+    </item>
+    
+    <item>
+      <title>Clean White Theme for Hugo</title>
+      <link>https://zhaohuabing.com/post/readme/</link>
+      <pubDate>Wed, 09 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/post/readme/</guid>
+      <description>Clean White Theme for Hugo CleanWhite is a clean, elegant, but fully functional blog theme for Hugo. Here is a live demo site using this theme. It is based on huxblog Jekyll Theme and Clean Blog Jekyll Theme. These two upstream projects have done awesome jobs to create a blog theme, what I&amp;rsquo;m doing here is porting it to Hugo, of which I like the simplicity and the much faster</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/top/about/</guid>
+      <description>tofunololgyとは 工業高校を卒業した学生が、”ものづくり の楽しさ”を求めて再び集まり結成した有志団体です。 進学の影響によりチームメン</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/top/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/top/contact/</guid>
+      <description>お問い合わせはメールにて承ります tofunololgy.102@gmail.com ・送る際は必ず「所属団体」もしくは「名前」を必ず明記してください。 ・できる限り早く返信をできるようにします</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://zhaohuabing.com/top/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhaohuabing.com/top/news/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
