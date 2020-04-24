@@ -40,15 +40,6 @@
     
     <item>
       <title></title>
-      <link>https://tofunology.github.io/site/top/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tofunology.github.io/site/top/about/</guid>
-      <description>tofunololgyとは 工業高校を卒業した学生が、”ものづくり の楽しさ”を求めて再び集まり結成した有志団体です。 進学の影響によりチームメン</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://tofunology.github.io/site/top/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -63,6 +54,24 @@
       
       <guid>https://tofunology.github.io/site/top/news/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tofunology.github.io/site/post/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/post/about/</guid>
+      <description>tofunololgyとは 工業高校を卒業した学生が、”ものづくり の楽しさ”を求めて再び集まり結成した有志団体です。 進学の影響によりチームメン</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://tofunology.github.io/site/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/top/about/</guid>
+      <description>tofunololgyとは 工業高校を卒業した学生が、”ものづくり の楽しさ”を求めて再び集まり結成した有志団体です。 進学の影響によりチームメン</description>
     </item>
     
   </channel>
