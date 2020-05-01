@@ -1,63 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://tofunology.github.io/site/post/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tofunology.github.io/site/2020/seeutofunology/</loc>
+    <loc>https://tofunology.github.io/site/post/seeutofunology/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/tags/stayhome/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/tags/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://tofunology.github.io/site/tags/tohunology/</loc>
-    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://tofunology.github.io/site/tags/tohunology/</loc>
+    <lastmod>2020-04-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/tags/%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86/</loc>
     <lastmod>2020-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/tags/arduino/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://tofunology.github.io/site/2020/03/24/hello-world/</loc>
+    <loc>https://tofunology.github.io/site/post/2020-03-24-hello-world/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0/</loc>
     <lastmod>2020-03-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -67,17 +59,14 @@
   
   <url>
     <loc>https://tofunology.github.io/site/search/placeholder/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/top/contact/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/top/news/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -86,17 +75,14 @@
   
   <url>
     <loc>https://tofunology.github.io/site/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/search/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://tofunology.github.io/site/top/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
