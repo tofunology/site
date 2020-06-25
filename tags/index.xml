@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on tofunology</title>
@@ -12,36 +12,20 @@
     
     
     <item>
-<<<<<<< HEAD
       <title>MFT2019</title>
       <link>https://tofunology.github.io/site/tags/mft2019/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tofunology.github.io/site/tags/mft2019/</guid>
-=======
-      <title>MakerFaire</title>
-      <link>https://tofunology.github.io/site/tags/makerfaire/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tofunology.github.io/site/tags/makerfaire/</guid>
->>>>>>> 4e11e50e8220142bc91aad2aee793f6d0ac8fd6b
       <description></description>
     </item>
     
     <item>
-<<<<<<< HEAD
       <title>MakerFaire</title>
       <link>https://tofunology.github.io/site/tags/makerfaire/</link>
       <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tofunology.github.io/site/tags/makerfaire/</guid>
-=======
-      <title>MFT2019</title>
-      <link>https://tofunology.github.io/site/tags/mft2019/</link>
-      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://tofunology.github.io/site/tags/mft2019/</guid>
->>>>>>> 4e11e50e8220142bc91aad2aee793f6d0ac8fd6b
       <description></description>
     </item>
     
