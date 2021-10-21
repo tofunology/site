@@ -445,6 +445,7 @@ pre code {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
+    padding: 30px 0px;
     -o-background-size: cover;
     margin-bottom: 0
 }
