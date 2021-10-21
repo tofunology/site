@@ -438,7 +438,7 @@ pre code {
     }
 }
 .intro-header {
-    background: no-repeat center center;
+    background: no-repeat top center;
     background-color: gray;
     transition:all 1.2s ease-in-out;
     background-attachment: scroll;
