@@ -18,4 +18,4 @@ const changeHeadImg = () => {
 };
 
 
-setInterval(changeHeadImg, 8000);
+setInterval(changeHeadImg, 10000);
