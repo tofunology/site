@@ -4,9 +4,9 @@ const introHead = document.getElementById("introHead");
 // 現在地を示す変数を定義
 let nextImage =1;
 let count =0;
-
 let imgArray;
 let preImg= new Image();
+let changeHeadTimer = 10000;//タイマー
 
 const changeHeadImg = () => {
     if(introHead){
@@ -16,6 +16,4 @@ const changeHeadImg = () => {
         preImg.src = imgArray[nextImage];
     }
 };
-
-
-setInterval(changeHeadImg, 10000);
+setInterval(changeHeadImg, changeHeadTimer);
