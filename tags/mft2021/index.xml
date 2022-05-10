@@ -1,55 +1,92 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MFT2021 on tofunology</title>
+    <title>MFT2021 on tofunology official web</title>
     <link>https://tofunology.github.io/site/tags/mft2021/</link>
-    <description>Recent content in MFT2021 on tofunology</description>
+    <description>Recent content in MFT2021 on tofunology official web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja-JP</language>
-    <lastBuildDate>Mon, 04 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tofunology.github.io/site/tags/mft2021/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tofunology.github.io/site/tags/mft2021/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>アップス縁日出展しました</title>
+      <link>https://tofunology.github.io/site/2021/upsEnnichi/finish/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/2021/upsEnnichi/finish/</guid>
+      <description>アップス縁日に参加しました  先日、世田谷区の青少年交流センター「アップス」で行われた「アップス縁日」に参加しました。
+今回はtofunologyとして、ハード班メンバーでもあるGOTO STATEMENTも一緒に展示しました。</description>
+    </item>
+    
+    <item>
+      <title>アップス縁日に向けて最終調整をしました！</title>
+      <link>https://tofunology.github.io/site/2021/upsEnnichi/upsEnnichi_last_notice/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/2021/upsEnnichi/upsEnnichi_last_notice/</guid>
+      <description>最終調整を行いました！  アップス縁日に向けて、最終調整を行いました。
+今回の記事では作業風景をたくさん紹介していきます！
+作業風景紹介  まず最初に紹介するのは今回展示する最強艦魚雷立体バトルのタイトル画面です。</description>
+    </item>
+    
+    <item>
+      <title>アップス縁日に出展します</title>
+      <link>https://tofunology.github.io/site/blog/2021/upsennichi/ennichi_notice/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://tofunology.github.io/site/blog/2021/upsennichi/ennichi_notice/</guid>
+      <description>イベント・施設紹介  アップスは世田谷区にある青少年交流施設です。
+今回はそのアップスでのイベント「アップス縁日」にtofunologyが出展することになりました！
+詳しい施設内容はコチラ↓↓↓</description>
+    </item>
+    
     <item>
       <title>MakerFaireTokyo2021のミニプレゼンに登壇！</title>
-      <link>https://tofunology.github.io/site/2021/MFT2021/finish/</link>
+      <link>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_finish/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/site/2021/MFT2021/finish/</guid>
-      <description>こんにちは、ぎてふです。 MakerFaireTokyo2021でミニプレゼンテーションに登壇させていただきました！ 5分間のプレゼンテーション</description>
+      <guid>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_finish/</guid>
+      <description>こんにちは、ぎてふです。
+MakerFaireTokyo2021でミニプレゼンテーションに登壇させていただきました！
+5分間のプレゼンテーション  5分間プレゼンテーションをしました！   （1:46:00〜、こちら からプレゼン開始の時点から再生できます ）</description>
     </item>
     
     <item>
       <title>MakerFaireTokyo2021オンライン登壇決定！</title>
-      <link>https://tofunology.github.io/site/2021/MFT2021/notice/join_onlinePresentation/</link>
+      <link>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_notice_onlinepresentation/</link>
       <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/site/2021/MFT2021/notice/join_onlinePresentation/</guid>
-      <description>ミニプレゼンテーションに参加！ 今年のMFTは残念ながら，オンライン開催のみになってしまいました． しかし！ミニプレゼンテーションに登壇者として</description>
+      <guid>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_notice_onlinepresentation/</guid>
+      <description>ミニプレゼンテーションに参加！  今年のMFTは残念ながら，オンライン開催のみになってしまいました．
+しかし！ミニプレゼンテーションに登壇者として参加できることになりました！
+日時 2021年10月03日(日) 12:20-12:45</description>
     </item>
     
     <item>
       <title>MakerFaireTokyo2021のオンサイト開催中止</title>
-      <link>https://tofunology.github.io/site/2021/MFT2021/notice/canceledOnSite/</link>
+      <link>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_cansceledonsite/</link>
       <pubDate>Fri, 03 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/site/2021/MFT2021/notice/canceledOnSite/</guid>
-      <description>MFT2021のオンサイト開催中止 MakerFaireTokyo2021運営(外部リンク)より、 オンサイト（対面）でのMakerFaireT</description>
+      <guid>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_cansceledonsite/</guid>
+      <description>MFT2021のオンサイト開催中止  MakerFaireTokyo2021運営(外部リンク) より、
+オンサイト（対面）でのMakerFaireTokyo2021開催が中止になった旨の発表がされました。</description>
     </item>
     
     <item>
       <title>MakerFaireTokyo2021に出展します！</title>
-      <link>https://tofunology.github.io/site/2021/MFT2021/notice/join/</link>
+      <link>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_notice/</link>
       <pubDate>Tue, 13 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/site/2021/MFT2021/notice/join/</guid>
-      <description>MFT2021での出展が決定！ 今年10月に東京ビッグサイトで開催される MakerFaireTokyo2021 での出展が決定しました！🎉🎉🎉 過去の作品をリメイク！ 今回展示する作品</description>
+      <guid>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_notice/</guid>
+      <description>MFT2021での出展が決定！  　今年10月に東京ビッグサイトで開催される MakerFaireTokyo2021 での出展が決定しました！🎉🎉🎉</description>
     </item>
     
     <item>
       <title>最強艦魚雷立体バトルのアップデート作業を行いました！</title>
-      <link>https://tofunology.github.io/site/2021/MFT2021/works/v00/</link>
+      <link>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_v00_works/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/site/2021/MFT2021/works/v00/</guid>
-      <description>こんにちは、ぎてふです。 一昨年の作品はまだ進化する！！ MakerFaireTokyo2021申請中！ 私たちは一昨年作成した「最強艦魚雷立体バ</description>
+      <guid>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_v00_works/</guid>
+      <description>こんにちは、ぎてふです。
+一昨年の作品はまだ進化する！！  MakerFaireTokyo2021 参加申請中！ 私たちは一昨年作成した「最強艦魚雷立体バトル」をよりバージョンアップした作品で、</description>
     </item>
     
   </channel>
