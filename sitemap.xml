@@ -2,10 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tofunology.github.io/site/author/gitefu/</loc>
-    <lastmod>2022-04-29T15:10:50+09:00</lastmod>
+    <loc>https://tofunology.github.io/site/categories/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/makerfaire/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/mft2021/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/categories/notice/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/blog/new/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/</loc>
+    <lastmod>2022-06-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/author/gitefu/</loc>
     <lastmod>2022-04-29T15:10:50+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/author/carlosnogami/</loc>
@@ -17,6 +35,15 @@
     <loc>https://tofunology.github.io/site/works/</loc>
     <lastmod>2022-04-26T17:33:54+09:00</lastmod>
   </url><url>
+    <loc>https://tofunology.github.io/site/blog/</loc>
+    <lastmod>2022-04-22T16:15:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/categories/for_writer/</loc>
+    <lastmod>2022-04-22T16:15:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/programing/</loc>
+    <lastmod>2022-04-22T16:15:00+09:00</lastmod>
+  </url><url>
     <loc>https://tofunology.github.io/site/author/matsuda/</loc>
     <lastmod>2022-04-22T15:10:50+09:00</lastmod>
   </url><url>
@@ -26,31 +53,16 @@
     <loc>https://tofunology.github.io/site/author/oreo/</loc>
     <lastmod>2022-04-22T15:10:50+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tofunology.github.io/site/tags/c99/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/2021/C99/notice/join/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/categories/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tofunology.github.io/site/tags/comicmarket/</loc>
     <lastmod>2021-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/categories/notice/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/tags/</loc>
-    <lastmod>2021-12-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://tofunology.github.io/site/categories/event_report/</loc>
-    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/tags/mft2021/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/ups/</loc>
@@ -67,9 +79,6 @@
   </url><url>
     <loc>https://tofunology.github.io/site/blog/2021/upsennichi/ennichi_notice/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/tags/makerfaire/</loc>
-    <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_finish/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
