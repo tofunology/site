@@ -5,15 +5,18 @@
     <link>https://tofunology.github.io/site/tags/comicmarket/</link>
     <description>Recent content in ComicMarket on tofunology official web</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://tofunology.github.io/site/tags/comicmarket/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://tofunology.github.io/site/tags/comicmarket/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>C99(金曜日)サークル参加します！</title>
-      <link>https://tofunology.github.io/site/2021/C99/notice/join/</link>
+      <link>https://tofunology.github.io/site/blog/2021/c99/notice/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://tofunology.github.io/site/2021/C99/notice/join/</guid>
-      <description>C99で製作記を頒布します！ 昨年「MakerFaireTokyo2020」で出展した**「SHOUTING PIANO」**の製作記をコミックマーケット99にて頒布します！
-2日目に東地区&amp;quot;へ&amp;quot;ブロック18aにて、1冊 300円 で頒布します。皆さんとお会いしてお話できることを楽しみにしています。私たちの作品をより知れると思います！</description>
+      <guid>https://tofunology.github.io/site/blog/2021/c99/notice/</guid>
+      <description>C99で製作記を頒布します！  　昨年「MakerFaireTokyo2020」で出展した「SHOUTING PIANO」の製作記をコミックマーケット99にて頒布します！</description>
     </item>
     
     <item>
@@ -24,7 +27,7 @@
       <guid>https://tofunology.github.io/site/blog/2019/c97/c97_finish/</guid>
       <description>C97で製作記を頒布してきました！ こんにちは、ぎてふです。
 C97の4日目に製作記を頒布しました！
-トラブル発生！ やはり当日にはトラブルが付き物ですね。製作記を持ったメンバーが寝坊しました。</description>
+ トラブル発生！ 　やはり当日にはトラブルが付き物ですね。製作記を持ったメンバーが寝坊しました。</description>
     </item>
     
     <item>
@@ -33,10 +36,8 @@ C97の4日目に製作記を頒布しました！
       <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://tofunology.github.io/site/blog/2019/c97/c97_notice/</guid>
-      <description>C97で製作記を頒布！ こんにちは、ぎてふです。
-先日MakerFaireTokyo2019で展示した「最強艦魚雷立体バトル」の製作記をコミックマーケット97にて頒布します！
-4日目に南地区&amp;quot;ラ&amp;quot;ブロック39bにて，1冊300円で頒布します。皆さんとお会いしてお話できることを楽しみにしています。
-ぜひお越しください。</description>
+      <description>C97で製作記を頒布！  こんにちは、ぎてふです。
+　先日MakerFaireTokyo2019で展示した「最強艦魚雷立体バトル」の製作記をコミックマーケット97にて頒布します！</description>
     </item>
     
   </channel>
