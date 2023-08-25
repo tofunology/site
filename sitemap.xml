@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tofunology.github.io/site/blog/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
     <loc>https://tofunology.github.io/site/categories/</loc>
-    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/categories/making_report/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/mft2023/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/ups/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/blog/2023/mft2023/making/</loc>
+    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/makerfaire/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2022/mft2022/mft2022_notice/</loc>
+    <loc>https://tofunology.github.io/site/blog/2022/mft2022/notice/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/mft2022/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/categories/notice/</loc>
-    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/tags/</loc>
-    <lastmod>2022-09-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/</loc>
     <lastmod>2022-09-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/author/gitefu/</loc>
@@ -34,15 +49,6 @@
   </url><url>
     <loc>https://tofunology.github.io/site/works/</loc>
     <lastmod>2022-04-26T17:33:54+09:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/blog/</loc>
-    <lastmod>2022-04-22T16:15:00+09:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/categories/for_writer/</loc>
-    <lastmod>2022-04-22T16:15:00+09:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/tags/programing/</loc>
-    <lastmod>2022-04-22T16:15:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/author/matsuda/</loc>
     <lastmod>2022-04-22T15:10:50+09:00</lastmod>
@@ -68,34 +74,28 @@
     <loc>https://tofunology.github.io/site/tags/mft2021/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/tags/ups/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/upsennichi/finish/</loc>
     <lastmod>2021-11-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/upsennichi/ennichi_finish/</loc>
-    <lastmod>2021-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/categories/making_report/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/upsennichi/last_notice/</loc>
     <lastmod>2021-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/upsennichi/upsennichi_last_notice/</loc>
-    <lastmod>2021-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/upsennichi/ennichi_notice/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/upsennichi/notice/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_finish/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/mft2021/finish/</loc>
     <lastmod>2021-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_notice_onlinepresentation/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/mft2021/notice_onlinepresentation/</loc>
     <lastmod>2021-09-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_cansceledonsite/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/mft2021/cansceledonsite/</loc>
     <lastmod>2021-09-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_notice/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/mft2021/notice/</loc>
     <lastmod>2021-07-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2021/mft2021/mft2021_v00_works/</loc>
+    <loc>https://tofunology.github.io/site/blog/2021/mft2021/works/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/author/</loc>
@@ -107,40 +107,40 @@
     <loc>https://tofunology.github.io/site/blog/2020/ws1st/ws1st/</loc>
     <lastmod>2020-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2020/mft2020/mft2020_finish/</loc>
+    <loc>https://tofunology.github.io/site/blog/2020/mft2020/finish/</loc>
     <lastmod>2020-10-23T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/mft2020/</loc>
     <lastmod>2020-10-23T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2020/mft2020/mft2020_last_notice/</loc>
+    <loc>https://tofunology.github.io/site/blog/2020/mft2020/last_notice/</loc>
     <lastmod>2020-09-25T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2020/mft2020/mft2020_notice_place/</loc>
+    <loc>https://tofunology.github.io/site/blog/2020/mft2020/notice_place/</loc>
     <lastmod>2020-09-09T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2020/mft2020/mft2020_notice_works/</loc>
+    <loc>https://tofunology.github.io/site/blog/2020/mft2020/notice_works/</loc>
     <lastmod>2020-09-09T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/c97/</loc>
     <lastmod>2020-01-11T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2019/c97/c97_finish/</loc>
+    <loc>https://tofunology.github.io/site/blog/2019/c97/finish/</loc>
     <lastmod>2020-01-11T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2019/c97/c97_notice/</loc>
+    <loc>https://tofunology.github.io/site/blog/2019/c97/notice/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2019/mft2019/mft2019_finish/</loc>
+    <loc>https://tofunology.github.io/site/blog/2019/mft2019/finish/</loc>
     <lastmod>2019-08-15T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/mft2019/</loc>
     <lastmod>2019-08-15T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2019/mft2019/mft2019_notice_works/</loc>
+    <loc>https://tofunology.github.io/site/blog/2019/mft2019/notice_works/</loc>
     <lastmod>2019-07-24T00:00:00+09:00</lastmod>
   </url><url>
-    <loc>https://tofunology.github.io/site/blog/2019/mft2019/mft2019_notice_place/</loc>
+    <loc>https://tofunology.github.io/site/blog/2019/mft2019/notice_place/</loc>
     <lastmod>2019-07-22T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/blog/2019/begin_website/</loc>
