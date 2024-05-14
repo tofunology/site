@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on tofunology official web</title>
+    <link>https://tofunology.github.io/site/categories/works/</link>
+    <description>Recent content in Works on tofunology official web</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Jul 2023 00:00:00 +0900</lastBuildDate>
+    <atom:link href="https://tofunology.github.io/site/categories/works/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>筆跡根絶！予告状マシン</title>
+      <link>https://tofunology.github.io/site/works/letter_machine/</link>
+      <pubDate>Mon, 24 Jul 2023 00:00:00 +0900</pubDate>
+      <guid>https://tofunology.github.io/site/works/letter_machine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SHOUTING PIANO</title>
+      <link>https://tofunology.github.io/site/works/chiken/</link>
+      <pubDate>Sat, 24 Jul 2021 00:00:00 +0900</pubDate>
+      <guid>https://tofunology.github.io/site/works/chiken/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>最強艦魚雷立体バトル</title>
+      <link>https://tofunology.github.io/site/works/gyoray/</link>
+      <pubDate>Wed, 24 Jul 2019 00:00:00 +0900</pubDate>
+      <guid>https://tofunology.github.io/site/works/gyoray/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
