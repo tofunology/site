@@ -2,22 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tofunology.github.io/site/blog/</loc>
-    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
-  </url><url>
     <loc>https://tofunology.github.io/site/categories/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/mft2024/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/tags/ups2024/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/categories/works/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/works/hanko/</loc>
+    <lastmod>2024-07-24T00:00:00+09:00</lastmod>
+  </url><url>
+    <loc>https://tofunology.github.io/site/blog/</loc>
     <lastmod>2023-08-25T09:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/categories/making_report/</loc>
     <lastmod>2023-08-25T09:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/mft2023/</loc>
-    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/tags/</loc>
-    <lastmod>2023-08-25T09:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/</loc>
     <lastmod>2023-08-25T09:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/ups/</loc>
@@ -27,9 +39,6 @@
     <lastmod>2023-08-25T09:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/tags/mft2022/</loc>
-    <lastmod>2023-07-24T00:00:00+09:00</lastmod>
-  </url><url>
-    <loc>https://tofunology.github.io/site/categories/works/</loc>
     <lastmod>2023-07-24T00:00:00+09:00</lastmod>
   </url><url>
     <loc>https://tofunology.github.io/site/works/letter_machine/</loc>
