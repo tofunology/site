@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C99 on tofunology official web</title>
-    <link>https://tofunology.github.io/site/tags/c99/</link>
+    <link>https://www.tofunology.com/tags/c99/</link>
     <description>Recent content in C99 on tofunology official web</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 28 Dec 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://tofunology.github.io/site/tags/c99/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.tofunology.com/tags/c99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>C99(金曜日)サークル参加します！</title>
-      <link>https://tofunology.github.io/site/blog/2021/c99/notice/</link>
+      <link>https://www.tofunology.com/blog/2021/c99/notice/</link>
       <pubDate>Tue, 28 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://tofunology.github.io/site/blog/2021/c99/notice/</guid>
-      <description>&lt;h3 id=&#34;c99で製作記を頒布します&#34;&gt;C99で製作記を頒布します！&lt;/h3&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;昨年「&lt;a href=&#34;https://makezine.jp/event/mft2020/&#34;&gt;MakerFaireTokyo2020&lt;/a&gt;」で出展した&lt;b&gt;&lt;font style=&#34;color: #CC6600&#34;&gt;「SHOUTING PIANO」&lt;/font&gt;&lt;/b&gt;の製作記をコミックマーケット99にて頒布します！&lt;/p&gt;&#xA;&lt;!-- あとでiframelyを追加 --&gt;&#xA;&lt;p&gt;2日目に&lt;b&gt;&lt;u&gt;東地区&amp;quot;へ&amp;quot;ブロック18a&lt;/u&gt;&lt;/b&gt;にて、&#xA;&lt;strong&gt;&lt;font style=&#34;color: #CC6600&#34;&gt;1冊300円&lt;/font&gt;&lt;/strong&gt; で頒布します。&#xA;皆さんとお会いしてお話できることを楽しみにしています。&#xA;私たちの作品をより知れると思います！&lt;/p&gt;</description>
+      <guid>https://www.tofunology.com/blog/2021/c99/notice/</guid>
+      <description>C99で製作記を頒布します！ 昨年「MakerFaireTokyo2020」で出展した「SHOUTING PIANO」の製作記をコミックマーケット99にて頒布します！&#xA;2日目に東地区&amp;quot;へ&amp;quot;ブロック18aにて、 1冊300円 で頒布します。 皆さんとお会いしてお話できることを楽しみにしています。 私たちの作品をより知れると思います！</description>
     </item>
   </channel>
 </rss>
